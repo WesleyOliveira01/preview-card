@@ -17,6 +17,7 @@
 
 .attribution {
   font-size: 11px;
+  margin:10%;
   text-align: center;
   color: var(--fontColor);
 }
